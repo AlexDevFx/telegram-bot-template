@@ -37,4 +37,4 @@ $ npm run test:cov
 
 ## License
 
-  MIT licensed](LICENSE).
+  [MIT licensed](LICENSE).
