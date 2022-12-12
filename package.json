@@ -24,7 +24,7 @@
     "@nestjs/common": "^7.6.15",
     "@nestjs/config": "^0.4.2",
     "@nestjs/core": "^7.6.15",
-    "@nestjs/platform-express": "^7.6.15",
+    "@nestjs/platform-express": "^9.2.1",
     "fs": "0.0.1-security",
     "moment": "^2.29.1",
     "nest-logger": "^6.2.0",
